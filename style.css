@@ -456,16 +456,9 @@ form {
 .assistance {
   margin-left: 22%;
 }
-/*      MEDIA QUERIES                             */
-/*@media screen and (max-width: 280px) {
-  .description-hotel h5 {
-    font-size: 13px;
-    margin: 0;
-  }
-  .description-hotel p {
-    font-size: x-small;
-  }
-}*/
+/*    MEDIA QUERIES                             */
+
+
 @media screen and (max-width: 764px) {
   main {
     margin: 0;
@@ -575,7 +568,7 @@ form {
     display: flex;
     margin: 8px;
     width: 19em;
-}
+  }
   #loupe {
     display: flex;
     align-items: center;
@@ -613,7 +606,7 @@ form {
     background-color: #0065fc;
     color: white;
     width: 82%;
-}
+  }
   .f a {
     padding: 7px;
     font-size: medium;
@@ -646,7 +639,7 @@ form {
   #animaux {
     white-space: nowrap;
     width: 57%;
-}
+  }
   #familial {
     margin-left: 4%;
   }
@@ -908,7 +901,7 @@ form {
     padding-top: 15px;
     font-size: larger;
   }
-  #animaux{
+  #animaux {
     width: min-content;
   }
   /*------------point-info----------------*/
@@ -1053,7 +1046,7 @@ form {
     display: flex;
     width: 62em;
     height: 3em;
-}
+  }
   .map-marker {
     width: 7%;
     height: 3em;
@@ -1084,7 +1077,7 @@ form {
     align-items: center;
     font-size: larger;
   }
-  #animaux{
+  #animaux {
     width: min-content;
   }
   /*------------point-info------*/
@@ -1182,7 +1175,7 @@ form {
     background-color: #f2f2f2;
     padding: 4% 0 4% 0;
     margin: 4% 0 0 0;
-}
+  }
   .a-propos {
     margin-left: 3%;
   }
@@ -1355,7 +1348,7 @@ form {
       margin-right: 31px;
       font-size: large;
       justify-content: start;
-  }
+    }
     /*----------FILTRES------------*/
 
     /*------------activites----------*/
