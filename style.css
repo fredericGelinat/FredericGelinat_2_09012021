@@ -638,7 +638,7 @@ form {
   }
   #animaux {
     white-space: nowrap;
-    width: 57%;
+    width: auto;
   }
   #familial {
     margin-left: 4%;
